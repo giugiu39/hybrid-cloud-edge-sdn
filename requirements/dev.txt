@@ -1,0 +1,3 @@
+# Strumenti di supporto (analisi risultati, grafici)
+matplotlib
+pandas

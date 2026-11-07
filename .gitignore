@@ -1,0 +1,19 @@
+# --- Python ---
+__pycache__/
+*.py[cod]
+*.egg-info/
+venv*/
+.venv*/
+
+# --- Mininet / OVS ---
+*.log
+/tmp/
+
+# --- Risultati pesanti (le catture si rigenerano) ---
+results/**/*.pcap
+results/**/*.pcapng
+
+# --- Editor / OS ---
+.vscode/
+.idea/
+.DS_Store
